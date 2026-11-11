@@ -7,5 +7,6 @@ The satellite imagery shows the rivers and wetlands where the jaguar would be ar
 
 The gold is a contrast point against the satellite background. There are 9 days with no data collection (26 Nov to 5 Dec), which shows up as a jump in the jaguar’s movement. He may have moved during that time without being recorded, and this explains the data’s limits. [added] The home range shape may also include areas he never visited, and this is only one animal over three months. If I had more time, I would add a play button, and possibly add another species in the same area if I were able to download that data.
 
+<img width="1508" height="938" alt="Screenshot 2026-11-10 at 8 11 29 PM" src="https://github.com/user-attachments/assets/fd48efb3-9099-4a2d-b9a8-df84ba376fc6" />
 
 
