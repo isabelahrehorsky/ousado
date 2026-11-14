@@ -22,7 +22,7 @@ let points = []; // Ousado's GPS points (the file is already in time order)
 
 // load the points and add the layers
 map.on('load', () => {
-  fetch('data/ousado.geojson')
+  fetch('ousado.geojson')
     .then(response => response.json())
     .then(data => {
       points = data.features;
